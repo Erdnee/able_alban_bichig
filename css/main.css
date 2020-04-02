@@ -1,0 +1,19 @@
+html,body{
+	margin:0;
+	padding:0;
+	font: IDK chaange later ;
+}
+
+#left-menus{
+	float:left;
+	width:29%;
+}
+#left-menus div:hover{
+	cursor:pointer;
+}
+
+#main-iframe{
+	float:left;
+	margin:auto;
+	width:69%;
+}
